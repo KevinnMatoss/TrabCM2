@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bibliografia"
+            android:icon="@drawable/icon_bibliografia"
+            android:title="Bibliografia" />
+        <item
+            android:id="@+id/nav_filmes"
+            android:icon="@drawable/icon_filmes"
+            android:title="Filmes mais Famosos" />
+        <item
+            android:id="@+id/nav_premios"
+            android:icon="@drawable/icon_premios"
+            android:title="Prémios e Indicações" />
+        <item
+            android:id="@+id/nav_curiosidades"
+            android:icon="@drawable/icon_curiosidades"
+            android:title="Curiosidades" />
+    </group>
+    <group android:id="@+id/grupo2" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_terminar"
+            android:icon="@drawable/icon_terminar"
+            android:title="Terminar"/>
+    </group>
+
+</menu>

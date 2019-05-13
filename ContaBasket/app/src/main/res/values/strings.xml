@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContaBasket</string>
+    <string name="equipa_a">Equipa A</string>
+    <string name="_3_pontos">+3 pontos</string>
+    <string name="_0">0</string>
+    <string name="_2_pontos">+2 pontos</string>
+    <string name="lan_amento_livre">Lançamento Livre</string>
+</resources>

@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">RyanReynolds</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Bib">\n
+        Ryan Rodney Reynolds nasceu a 23 de outubro de 1976 no Canadá na cidade de Vancouver. Trabalha como ator, comediante, produtor de filme e argumentista.
+        \n
+        O pai de Ryan, James Chester "Jim" Reynolds, era atacadista de alimentos. A mãe de Ryan, Tamara Lee "Tammy" Reynolds, era uma vendedora de loja de varejo.
+        \n
+        Ryan é de ascendência irlandesa e foi criado na Igreja Católica Apostólica Romana. É o mais novo entre 4 irmãos. Estudou na <i>Kitsilano Secondary School</i> em Vancouver, em 1994.
+        De seguida entrou na <i>Kwantlen College</i> saindo mais tarde.
+        \n\n
+        <b>Vida Profissional</b>
+        \n\n
+        A carreira dele começou em 1991 na série <i>Hillside</i>, em que fez o papel Billy Simpson.
+        Em 2009, fez o papel de Wade Wilson / Weapeon XI num filme de X-Men, <i>X-Men Origins: Wolverine</i>.
+        \n
+        Teve um grande sucesso em 2016 com o filme <i>Deadpool</i>, um filme que estava em desenvolvimento desde 2000. Depois de fazer o papel de Wade Wilson / Weapeon XI, Ryan ficou muito envolvido no desenvolvimento do <i>Deadpool</i>.
+        \n
+        O <i>Deadpool</i> bateu muitos recordes incluindo uma abertura de $264.9 a partir de 62 mercados, que foi a maior de 2016. O grande sucesso financeiro e crítico do filme levou o estúdio a produzir a sequela <i>Deadpool 2</i>.
+        Começou a filmar em 2017 no <i>Deadpool 2</i>, que estreou em 18 de maio de 2017.
+        \n\n
+        <b>Vida Pessoal</b>
+        \n\n
+        Em 2002, Ryan começou a namorar com a cantora canadiana Alanis Morissette. Anunciaram casarem-se em junho de 2004, porém em 2007 ambos chegaram a acordo de acabar o relacionamento.
+        \n
+        Começou a namorar em 2007 com a atriz americana Scarlett Johansson. Em maio de 2008 anunciaram o seu casamento e casaram-se em setembro do mesmo ano. Em 2010 anunciaram o seu divórcio.
+        \n
+        Atualmente Ryan está casado com a atriz americana Blake Lively. Este casamento foi a 9 de setembro de 2012. O casal tem duas filhas, uma nascida em dezembro de 2014 e outra nascida em setembro de 2016.
+        \n
+        Ryan falou abertamente que teve problemas de ansiedade toda a sua vida, notando em 2018 que realizou muitas entrevistas da personagem Deadpool para aliviar os seus medos.
+
+    </string>
+
+    <string name="x_men_or">
+
+        <b><i>X-Men Origins: Wolverine</i></b> é um filme americano de ação e ficção científica baseado na personagem fictícia <b>Wolverine</b> da <b>Marvel Comics</b>.
+        \n
+        É o quarto filme da franquia <i>X-Men</i> e foi lançado mundialmente a 1 de maio de 2009.
+        \n
+        Ryan Reynolds toma o papel de Wade Wilson / Deadpool / Weapon XI, um ágil manipulador de espadas que faz parte da <i>X Team</i>.
+        \n
+    </string>
+
+    <string name="prop">
+       <b><i>The Proposal</i></b> é um filme americano de comédia romântica lançado a 19 de junho de 2009.
+       \n
+        Uma imigrante canadiana chamada Margaret Tate, que descobre que ela pode enfrentar acusações de deportação por causa de seu visto expirado.
+        Determinada a manter sua posição como executivo-chefe, Tate convence seu assistente, Andrew Paxton, a atuar temporariamente como seu marido.
+        \n
+        Ryan Reynolds faz de Andrew Paxton, Assistente de Margaret que deseja ser promovido a editor e ter seu livro manuscrito publicado.
+
+    </string>
+
+    <string name="gl">
+        <b><i>Green Lantern</i></b> é um filme americano de super-heróis baseado numa personagem da DC Comics com o mesmo nome.
+        \n
+        Este filme esteve em desenvolvimento desde 1997 até ser lançado mais tarde em 2011. A produção do filme esteve parada até outubro de 2007, quando Greg Berlanti foi contratado para escrever e dirigir o filme.
+        Mais tarde, em fevereiro de 2008, Martin Campbell tomou a posição de diretor do filme na qual Berlanti foi forçado a deixar.
+        \n
+        Ryan Reynolds atua como Harold "Hal" Jordan / Green Lantern, um piloto de teste da Ferris Aircraft que se torna o Green Lantern sendo o primeiro humano a entrar na <b>Green Lantern Corps</b>.
+        \n
+        Sobre este filme, Ryan diz que soube sobre a personagem Green Lantern toda a sua vida, mas nunca a tinha acompanhado antes. Apaixounou-se pela personagem quando conheceu o diretor Martin Campbell.
+
+    </string>
+
+    <string name="hit">
+        <b><i>The Hitman s Bodyguard</i></b> é um filme americano de comédia e ação dirigido por Patrick Hughes. Foi lançado nos EUA em 18 de agosto de 2017, recebendo críticas mistas, que prezou a química de Reynolds com Samuel L. Jackson, mas criticado o enredo como um cliché.
+        \n
+        Michael Bryce (Reynolds) vive uma vida elegante como um guarda-costas privado de nível elite até que um dia um dos seus clientes, Takashi Kurosawa, é assassinado à sua frente.
+        Dois anos depois, Bryce ganha a sua vida executivos corporativos viciados em drogas em Londres.
+        \n 
+        Em 2018, é anunciada a sequela deste filme: <b><i>The Hitman s Wife s Bodyguard</i></b>.
+
+    </string>
+
+    <string name="dp">
+        <b><i>Deadpool</i></b> é um filme americano de super-heróis baseado na personamgem da <b>Marvel Comics</b> com o mesmo nome.
+        É a oitava edição da série de filmes <b><i>X-Men</i></b>.
+        \n
+        Wade Wilson(papel de Ryan Reynolds) é um agente das forças especiais desonrosamente dispensado que trabalha como um mercenário, até que conhece Vanessa, uma prostituta.
+        Envolvem-se românticamente e um ano depois, Vanessa aceita o pedido de casamento de Wade. Wilson é diagnosticado com câncro terminal, e deixa Vanessa sem aviso para que ela não o veja morrer.
+        Até que um dia, um recruta misterioso aproxima-se de Wilson oferecendo uma cura para a sua doença.
+        \n
+        A 18 de maio de 2018, é realizado <b><i>Deadpool 2</i></b>, a sequela do <b><i>Deadpool</i></b>.
+
+
+    </string>
+
+    <string name="aws">\n
+        A 28 de junho de 2011, é anunciado que Reynolds vai receber uma estrela na <b><i>Walk of Fame</i></b> do Canadá, e é empossado a 1 de outubro no Elgin Theatre, em Toronto.
+        \n\n\n
+        <b>Goya Awards</b>
+        \n\n
+        <b>-</b>Indicado - "Melhor Ator" - <i>Buried </i> (2010)
+        \n\n\n
+        <b>MTV Movie Awards</b>
+        \n\n
+        <b>-</b>Indicado - "Melhor Atuação Cómica" - <i>The Proposal</i> (2009)
+        \n\n
+        <b>-</b>Indicado - "Melhor Luta" - <i>X-Men Origins: Wolverine</i> (2009) - com Hugh Jackman e Liev Schreiber (2010)
+        \n\n
+        <b>-</b>Indicado - "Melhor Beijo" - <i>The Proposal</i> - com Sandra Bullock (2009)
+        \n\n
+        <b>-</b>Indicado - "Melhor Revelação Masculina" - <i>National Lampoon s Van Wilder</i> (2002)
+        \n\n
+        <b>- Vencedor</b> - "Melhor Atuação de Comédia Original" - <i>Deadpool</i> (2016)
+        \n\n\n
+        <b>People Choice Awards</b>
+        \n\n
+        <b>-</b> Indicado - "Ator de filme favorito" (2009)
+        \n\n
+        <b>-</b> Indicado - "Estrela de comédia favorito" (2009)
+        \n\n
+        <b>-</b> Indicado - "Equipe favorita" - com Daniel Henney, Dominic Monaghan, Hugh Jackman, Liev Schreiber e Will.I.Am (2009)
+        \n\n
+        <b>-</b> Indicado - "Equipe favorita" - com Sandra Bullock (2009)
+        \n\n\n
+        <b>Saturn Awards</b>
+        \n\n
+        <b>-</b> Indicado - "Melhor Ator" <i>Buried</i>(2010)
+        \n\n\n
+        <b>Scream Awards</b>
+        \n\n
+        <b>- Vencedor</b> - "Melhor Ator Adjunto" <i>X-Men Origins: Wolverine</i> (2009)
+        \n\n
+        <b>-</b> Indicado - "Atuação de Revelação Masculina" - <i>National Lampoon s Van Wilder</i> (2002)
+        \n\n\n
+        <b>Teen Choice Awards</b>
+        \n\n
+        <b>-</b> Indicado - "Melhor escolha de ator para um filme de Fantasia científica" - <i>Green Lantern</i> (2011)
+        \n\n\n
+        <b>Critics Choice Awards</b>
+        \n\n
+        <b>- Vencedor</b> - "Melhor Ator em filme de comédia - <i>Deadpool</i> (2016)
+        \n
+
+
+
+    </string>
+    <string name="rp">
+        \n
+        Muito antes de entrar para o mundo do entretenimento, Reynolds foi reprovado na escola de teatro.
+        \n
+        Numa entrevista para um programa de rádio, o ator foi perguntado, em tom de brincadeira, se preferia fazer aquela aula novamente ou atuar numa sequência de <b><i>R.I.P.D. - Agentes do Além.</i></b>
+        \n
+        "Isso foi ótimo. É engraçado e humilhante", respondeu o ator. "Eu vou lhe responder essa pergunta: Eu faria a aula novamente!"
+
+        \n
+
+    </string>
+
+    <string name="claus">
+        \n
+        "Ser enterrado vivo é provavelmente um dos piores pesadelos que o ser humano tem. Eu não consegui não sentir claustrofobia quando nós estávamos a filmar no caixão",
+        afirmou o ator sobre seu trabalho em <b><i>Enterrado Vivo</i></b>.
+        \n
+        O desafio de entrar num caixão e atuar teria sido grande para muitos atores, mas certamente deve ter mexido mais ainda com Reynolds, que tem claustrofobia.
+
+    </string>
+
+
+</resources>
