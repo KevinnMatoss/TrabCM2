@@ -1,12 +1,12 @@
 package com.example.trabcm;
 
 import androidx.annotation.NonNull;
+import androidx.room.ColumnInfo;
+import androidx.room.Entity;
+import androidx.room.PrimaryKey;
 
-
-
-@Entity(tablename = "word_table")
+@Entity(tableName = "word_table")
 public class Word {
-
     @PrimaryKey
     @NonNull
     @ColumnInfo(name = "word")
